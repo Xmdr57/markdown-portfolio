@@ -1,6 +1,6 @@
 ---
 layout: default
-- [] Despertarme
-- [] Desayunar
-- [] Hacer curso github
 ---
+- [ ] Despertarme
+- [ ] Desayunar
+- [ ] Hacer curso github
